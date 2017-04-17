@@ -1,0 +1,48 @@
+C:\Users\Айгерим\Desktop\PT2017_W12G2-tranform2\PaintApp\bin\Debug\PaintApp.exe.config
+C:\Users\Айгерим\Desktop\PT2017_W12G2-tranform2\PaintApp\obj\Debug\PaintApp.csprojResolveAssemblyReference.cache
+C:\Users\Айгерим\Desktop\PT2017_W12G2-tranform2\PaintApp\obj\Debug\PaintApp.Form1.resources
+C:\Users\Айгерим\Desktop\PT2017_W12G2-tranform2\PaintApp\obj\Debug\PaintApp.Properties.Resources.resources
+C:\Users\Айгерим\Desktop\PT2017_W12G2-tranform2\PaintApp\obj\Debug\PaintApp.csproj.GenerateResource.Cache
+C:\Users\Айгерим\Desktop\PT2017_W12G2-tranform2\PaintApp\bin\Debug\PaintApp.exe
+C:\Users\Айгерим\Desktop\PT2017_W12G2-tranform2\PaintApp\bin\Debug\PaintApp.pdb
+C:\Users\Айгерим\Desktop\PT2017_W12G2-tranform2\PaintApp\obj\Debug\PaintApp.exe
+C:\Users\Айгерим\Desktop\PT2017_W12G2-tranform2\PaintApp\obj\Debug\PaintApp.pdb
+C:\Users\Айгерим\Desktop\paint\PaintApp\bin\Debug\PaintApp.exe.config
+C:\Users\Айгерим\Desktop\paint\PaintApp\obj\Debug\PaintApp.exe
+C:\Users\Айгерим\Desktop\paint\PaintApp\obj\Debug\PaintApp.pdb
+C:\Users\a_sadir\Desktop\paint-master\PaintApp\bin\Debug\PaintApp.exe.config
+C:\Users\a_sadir\Desktop\paint-master\PaintApp\obj\Debug\PaintApp.exe
+C:\Users\a_sadir\Desktop\paint-master\PaintApp\obj\Debug\PaintApp.pdb
+C:\Users\a_sadir\Desktop\paint-master\PaintApp\bin\Debug\PaintApp.exe
+C:\Users\a_sadir\Desktop\paint-master\PaintApp\bin\Debug\PaintApp.pdb
+C:\Users\a_sadir\Desktop\paint-master\PaintApp\obj\Debug\PaintApp.csprojResolveAssemblyReference.cache
+C:\Users\a_sadir\Desktop\paint-master\PaintApp\obj\Debug\PaintApp.Form1.resources
+C:\Users\a_sadir\Desktop\paint-master\PaintApp\obj\Debug\PaintApp.Properties.Resources.resources
+C:\Users\a_sadir\Desktop\paint-master\PaintApp\obj\Debug\PaintApp.csproj.GenerateResource.Cache
+C:\Users\Айгерим\Desktop\w13-master\paint-master\PaintApp\bin\Debug\PaintApp.exe.config
+C:\Users\Айгерим\Desktop\w13-master\paint-master\PaintApp\obj\Debug\PaintApp.exe
+C:\Users\Айгерим\Desktop\w13-master\paint-master\PaintApp\obj\Debug\PaintApp.pdb
+C:\Users\Айгерим\Desktop\w13-master\paint-master\PaintApp\bin\Debug\PaintApp.exe
+C:\Users\Айгерим\Desktop\w13-master\paint-master\PaintApp\bin\Debug\PaintApp.pdb
+C:\Users\Айгерим\Desktop\w13-master\paint-master\PaintApp\obj\Debug\PaintApp.csprojResolveAssemblyReference.cache
+C:\Users\Айгерим\Desktop\w13-master\paint-master\PaintApp\obj\Debug\PaintApp.Form1.resources
+C:\Users\Айгерим\Desktop\w13-master\paint-master\PaintApp\obj\Debug\PaintApp.Properties.Resources.resources
+C:\Users\Айгерим\Desktop\w13-master\paint-master\PaintApp\obj\Debug\PaintApp.csproj.GenerateResource.Cache
+C:\Users\Айгерим\Desktop\paint aigerim\paint-master\PaintApp\bin\Debug\PaintApp.exe.config
+C:\Users\Айгерим\Desktop\paint aigerim\paint-master\PaintApp\obj\Debug\PaintApp.exe
+C:\Users\Айгерим\Desktop\paint aigerim\paint-master\PaintApp\obj\Debug\PaintApp.pdb
+C:\Users\Айгерим\Desktop\paint aigerim\paint-master\PaintApp\bin\Debug\PaintApp.exe
+C:\Users\Айгерим\Desktop\paint aigerim\paint-master\PaintApp\bin\Debug\PaintApp.pdb
+C:\Users\Айгерим\Desktop\paint aigerim\paint-master\PaintApp\obj\Debug\PaintApp.csprojResolveAssemblyReference.cache
+C:\Users\Айгерим\Desktop\paint aigerim\paint-master\PaintApp\obj\Debug\PaintApp.Form1.resources
+C:\Users\Айгерим\Desktop\paint aigerim\paint-master\PaintApp\obj\Debug\PaintApp.Properties.Resources.resources
+C:\Users\Айгерим\Desktop\paint aigerim\paint-master\PaintApp\obj\Debug\PaintApp.csproj.GenerateResource.Cache
+C:\Users\a_sadir\Desktop\Paintapp-master\paint aigerim\paint-master\PaintApp\bin\Debug\PaintApp.exe.config
+C:\Users\a_sadir\Desktop\Paintapp-master\paint aigerim\paint-master\PaintApp\obj\Debug\PaintApp.exe
+C:\Users\a_sadir\Desktop\Paintapp-master\paint aigerim\paint-master\PaintApp\obj\Debug\PaintApp.pdb
+C:\Users\a_sadir\Desktop\Paintapp-master\paint aigerim\paint-master\PaintApp\bin\Debug\PaintApp.exe
+C:\Users\a_sadir\Desktop\Paintapp-master\paint aigerim\paint-master\PaintApp\bin\Debug\PaintApp.pdb
+C:\Users\a_sadir\Desktop\Paintapp-master\paint aigerim\paint-master\PaintApp\obj\Debug\PaintApp.csprojResolveAssemblyReference.cache
+C:\Users\a_sadir\Desktop\Paintapp-master\paint aigerim\paint-master\PaintApp\obj\Debug\PaintApp.Form1.resources
+C:\Users\a_sadir\Desktop\Paintapp-master\paint aigerim\paint-master\PaintApp\obj\Debug\PaintApp.Properties.Resources.resources
+C:\Users\a_sadir\Desktop\Paintapp-master\paint aigerim\paint-master\PaintApp\obj\Debug\PaintApp.csproj.GenerateResource.Cache
